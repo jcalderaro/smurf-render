@@ -1,0 +1,22 @@
+body {
+  background: #2a313b;
+  margin: 0;
+  padding: 0;
+  font-family: Poppins;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2%;
+
+}
+
+a {
+  color: #fdd1e1;
+  text-decoration: none;
+}
+
+h3 {
+  color: white;
+}
